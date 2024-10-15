@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - Estou estudando no alura
 - estou me desenvolvendo na linguagem Javascript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
 ! [stitch] (https://media1.tenor.com/m/o8IAgH5B6qgAAAAC/stich.gif)
